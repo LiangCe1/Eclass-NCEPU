@@ -48,3 +48,16 @@
     * [复试参考书目及大纲(保定)](https://github.com/LiangCe1/Eclass-NCEPU/blob/master/%E9%83%A8%E5%88%86%E8%B5%84%E6%96%99/%E5%A4%8D%E8%AF%95%E5%8F%82%E8%80%83%E4%B9%A6%E7%9B%AE%E5%8F%8A%E5%A4%A7%E7%BA%B2%EF%BC%88%E4%BF%9D%E5%AE%9A%EF%BC%89.docx)
     * [2019复试录取成绩](https://github.com/LiangCe1/Eclass-NCEPU/blob/master/%E9%83%A8%E5%88%86%E8%B5%84%E6%96%99/2019%E5%A4%8D%E8%AF%95%E5%BD%95%E5%8F%96%E6%88%90%E7%BB%A9.docx)
   * [华电考研重要网站](https://github.com/LiangCe1/Eclass-NCEPU/blob/master/%E9%83%A8%E5%88%86%E8%B5%84%E6%96%99/%E5%8D%8E%E7%94%B5%E8%80%83%E7%A0%94%E9%87%8D%E8%A6%81%E7%BD%91%E7%AB%99.docx)
+* 招生目录
+  * [2019华北电力大学非全日制专业学位招生目录](https://github.com/LiangCe1/Eclass-NCEPU/blob/master/%E6%8B%9B%E7%94%9F%E7%9B%AE%E5%BD%95/2019%E5%8D%8E%E5%8C%97%E7%94%B5%E5%8A%9B%E5%A4%A7%E5%AD%A6%E9%9D%9E%E5%85%A8%E6%97%A5%E5%88%B6%E4%B8%93%E4%B8%9A%E5%AD%A6%E4%BD%8D%E6%8B%9B%E7%94%9F%E7%9B%AE%E5%BD%95.pdf)
+  * [2019华北电力大学全日制学士学位招生目录](https://github.com/LiangCe1/Eclass-NCEPU/blob/master/%E6%8B%9B%E7%94%9F%E7%9B%AE%E5%BD%95/2019%E5%8D%8E%E5%8C%97%E7%94%B5%E5%8A%9B%E5%A4%A7%E5%AD%A6%E5%85%A8%E6%97%A5%E5%88%B6%E5%AD%A6%E5%A3%AB%E5%AD%A6%E4%BD%8D%E6%8B%9B%E7%94%9F%E7%9B%AE%E5%BD%95.pdf)
+  * [2019华北电力大学全日制专业学位招生目录](https://github.com/LiangCe1/Eclass-NCEPU/blob/master/%E6%8B%9B%E7%94%9F%E7%9B%AE%E5%BD%95/2019%E5%8D%8E%E5%8C%97%E7%94%B5%E5%8A%9B%E5%A4%A7%E5%AD%A6%E5%85%A8%E6%97%A5%E5%88%B6%E4%B8%93%E4%B8%9A%E5%AD%A6%E4%BD%8D%E6%8B%9B%E7%94%9F%E7%9B%AE%E5%BD%95.pdf)
+* [报录比](https://github.com/LiangCe1/Eclass-NCEPU/tree/master/%E6%8A%A5%E5%BD%95%E6%AF%94)
+* 华北电力大学(北京)分数线
+  * [2011年华北电力大学(北京)研究生规模及复试分数线](https://mp.weixin.qq.com/s/9vsF9dQSb3TsGsSmwfkvOw)
+  * [2012年华北电力大学(北京)研究生规模及复试分数线](https://mp.weixin.qq.com/s/kaceMIpQRH9ea6HkN0ngpQ)
+  * [2013年华北电力大学(北京)研究生规模及复试分数线](https://mp.weixin.qq.com/s/eVy1qzXq8kzVTZgRp_RIvw)
+  * [2014年华北电力大学(北京)研究生规模及复试分数线](https://mp.weixin.qq.com/s/evF0y8wYn-Z1WT_LAacFZA)
+  * [2015年硕士生入学考试考生进入复试的初试成绩基本要求](https://mp.weixin.qq.com/s/WvlM7-h0Ir1AJcUndvMoCA)
+  * [2016年硕士生入学考试考生进入复试的初试成绩基本要求](https://mp.weixin.qq.com/s/wXVSTjka6dh2R4ZW9v4sGw)
+  * [2017年硕士生入学考试考生进入复试的初试成绩基本要求](https://mp.weixin.qq.com/s/Du3qeQGPM8Y9YrgDcpAAOg)
