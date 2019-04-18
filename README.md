@@ -39,7 +39,7 @@
 ===
 **前言**：选择永远比努力更重要！不畏难，不放弃，考研加油。相信坚持的力量！
 ## 目录
-* 华北电力大学考验必备学习资料汇总
+* 华北电力大学考验必备资料汇总
   * [考研英语](https://pan.baidu.com/s/1yZVf-3NCxHctx5fOH5V5XA)(提取码：xunq)
   * 初试
     * [初试考试大纲](https://github.com/LiangCe1/Eclass-NCEPU/blob/master/%E9%83%A8%E5%88%86%E8%B5%84%E6%96%99/%E5%88%9D%E8%AF%95%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B2.docx)
