@@ -11,7 +11,7 @@
 * 华北电力大学本科课程学习资料汇总
   * 分类①
     * 公共基础
-      * 数学：高等数学、[线性代数](https://pan.baidu.com/s/1MK2bQA3ekMwststZ__-ipQ)(提取码：pclq)、[概率论与数理统计](https://pan.baidu.com/s/1NJp9HLXZPqB9zKDYdk_dlw)(提取码：n7ao)、[复变函数与积分变换](https://pan.baidu.com/s/1WdSRdUdYYqBHL5jVcaQRyA)(提取码：yiy9)
+      * 数学：<br>高等数学<br>[线性代数](https://pan.baidu.com/s/1MK2bQA3ekMwststZ__-ipQ)(提取码：pclq)<br>[概率论与数理统计](https://pan.baidu.com/s/1NJp9HLXZPqB9zKDYdk_dlw)(提取码：n7ao)<br>[复变函数与积分变换](https://pan.baidu.com/s/1WdSRdUdYYqBHL5jVcaQRyA)(提取码：yiy9)
       * 政治：思想道德与修养、中国近代史、马克思主义原理、毛泽东思想概论
     * 专业基础
       * 信息技术基础、大学物理、工程制图、电路、工磁、模电、数电、信号分析
