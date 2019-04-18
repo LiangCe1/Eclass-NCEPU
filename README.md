@@ -18,7 +18,7 @@
     * 专业课
       *电机
       电力系统分析、电力电子技术、自动控制、发电厂电气部分、继电保护
-      暂态分析（https://pan.baidu.com/s/10EMjvlvHqIAwptnYTs3JOA）
+      [暂态分析]（https://pan.baidu.com/s/10EMjvlvHqIAwptnYTs3JOA）
       微机原理、高电压、电力系统自动化
   * 分类②
     * 大一上：
