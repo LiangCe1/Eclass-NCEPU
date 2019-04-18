@@ -15,9 +15,9 @@
       * 数学：<br>[高等数学(上)]()<br>[高等数学(下)](https://pan.baidu.com/s/1wXlq_hj3ZLCDq-_t8_DyMg)(提取码：swry)<br>[线性代数](https://pan.baidu.com/s/1MK2bQA3ekMwststZ__-ipQ)(提取码：pclq)<br>[概率论与数理统计](https://pan.baidu.com/s/1NJp9HLXZPqB9zKDYdk_dlw)(提取码：n7ao)<br>[复变函数与积分变换](https://pan.baidu.com/s/1WdSRdUdYYqBHL5jVcaQRyA)(提取码：yiy9)
       * 政治：<br>[思想道德与修养]()<br>[中国近代史]()<br>[马克思主义原理]()<br>[毛泽东思想概论]()
     * 专业基础
-      * [信息技术基础]()<br>[大学物理(上)](https://pan.baidu.com/s/13NYZuyrnSb2kkKsJxjF7OQ)(提取码：ta6o)<br>[大学物理(下)]()<br>[工程制图](https://pan.baidu.com/s/1Ri6e9H7f0g-5Zz3pJ_9XVQ)(提取码：hxm6)<br>[电路]()<br>[工磁]()<br>[模电](https://pan.baidu.com/s/1pxIRwpc4nkFLPd7dUgb53A)(提取码：gdwi)<br>[数电](https://pan.baidu.com/s/1kdsfkiBR5NC1uo0bpAbTNA)(提取码：3sv2)<br>[信号分析]()
+      * [信息技术基础]()<br>[大学物理(上)](https://pan.baidu.com/s/13NYZuyrnSb2kkKsJxjF7OQ)(提取码：ta6o)<br>[大学物理(下)]()<br>[工程制图](https://pan.baidu.com/s/1Ri6e9H7f0g-5Zz3pJ_9XVQ)(提取码：hxm6)<br>[电路]()<br>[工磁](https://pan.baidu.com/s/1BSbbc-1qHDWKcQ_pG3JRLw)(提取码：flea)<br>[模电](https://pan.baidu.com/s/1pxIRwpc4nkFLPd7dUgb53A)(提取码：gdwi)<br>[数电](https://pan.baidu.com/s/1kdsfkiBR5NC1uo0bpAbTNA)(提取码：3sv2)<br>[信号分析]()
     * 专业课<br>
-　　[电机]()<br>
+　　[电机](https://pan.baidu.com/s/1uoT0XNyTNBaPNTC76_y17Q)(提取码：8hwi)<br>
 　　[电力系统分析](https://pan.baidu.com/s/1M1bDO7-XLnnNSxTl7QIJXg)(提取码：n34k)<br>
 　　[电力电子技术]()<br>
 　　[自动控制](https://pan.baidu.com/s/13kXum_dtGkNdoFPyGNGCVw)(提取码：zgq7)<br>
@@ -27,6 +27,11 @@
 　　[微机原理]()<br>
 　　[高电压](https://pan.baidu.com/s/1w46z7DPAJ4awLPiK5hMATA)(提取码：1sqs)<br>
 　　[电力系统自动化]()
+     * 软件工具<br>
+     [SolidWorks2016](https://pan.baidu.com/s/1RLnfMb8Qz-M6uuZduJnF5w)(提取码：919q)<br>
+     [SolidWorks2017]()(提取码：)<br>
+     [MATLAB2017](https://pan.baidu.com/s/1fzIykp5b9VHqm4DF0K4CvQ)(提取码：5rcm)<br>
+     [SPSS](https://pan.baidu.com/s/1yWinODy3QOMu3q9Ivc3PkQ)(提取码：uesz)<br>
   * 分类②
     * 大一上：
     * 大一下：
