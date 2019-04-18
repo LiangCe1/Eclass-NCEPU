@@ -42,9 +42,9 @@
 * 华北电力大学考验必备学习资料汇总
   * [考研英语](https://pan.baidu.com/s/1yZVf-3NCxHctx5fOH5V5XA)(提取码：xunq)
   * 初试
-    * [初试考试大纲]()
+    * [初试考试大纲](https://github.com/LiangCe1/Eclass-NCEPU/blob/master/%E9%83%A8%E5%88%86%E8%B5%84%E6%96%99/%E5%88%9D%E8%AF%95%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B2.docx)
   * 复试
-    * [复试参考书目及大纲(北京)]()
-    * [复试参考书目及大纲(保定)]()
+    * [复试参考书目及大纲(北京)](https://github.com/LiangCe1/Eclass-NCEPU/blob/master/%E9%83%A8%E5%88%86%E8%B5%84%E6%96%99/%E5%A4%8D%E8%AF%95%E5%8F%82%E8%80%83%E4%B9%A6%E7%9B%AE%E5%8F%8A%E5%A4%A7%E7%BA%B2(%E5%8C%97%E4%BA%AC).docx)
+    * [复试参考书目及大纲(保定)](https://github.com/LiangCe1/Eclass-NCEPU/blob/master/%E9%83%A8%E5%88%86%E8%B5%84%E6%96%99/%E5%A4%8D%E8%AF%95%E5%8F%82%E8%80%83%E4%B9%A6%E7%9B%AE%E5%8F%8A%E5%A4%A7%E7%BA%B2%EF%BC%88%E4%BF%9D%E5%AE%9A%EF%BC%89.docx)
     * [2019复试录取成绩](https://github.com/LiangCe1/Eclass-NCEPU/blob/master/%E9%83%A8%E5%88%86%E8%B5%84%E6%96%99/2019%E5%A4%8D%E8%AF%95%E5%BD%95%E5%8F%96%E6%88%90%E7%BB%A9.docx)
-  * [华电考研重要网站]()
+  * [华电考研重要网站](https://github.com/LiangCe1/Eclass-NCEPU/blob/master/%E9%83%A8%E5%88%86%E8%B5%84%E6%96%99/%E5%8D%8E%E7%94%B5%E8%80%83%E7%A0%94%E9%87%8D%E8%A6%81%E7%BD%91%E7%AB%99.docx)
