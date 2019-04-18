@@ -27,7 +27,7 @@
 　　[发电厂电气部分](https://pan.baidu.com/s/179ucYKEBJIbL5elWDTfm6A)(提取码：qtj2)<br>
 　　[继电保护]()<br>
 　　[暂态分析](https://pan.baidu.com/s/10EMjvlvHqIAwptnYTs3JOA)(提取码：w9kd)<br>
-　　[微机原理]()<br>
+　　[微机原理](https://pan.baidu.com/s/16VNqMc50H3A67YabeOdazQ)(提取码：r5x6)<br>
 　　[高电压](https://pan.baidu.com/s/1w46z7DPAJ4awLPiK5hMATA)(提取码：1sqs)<br>
 　　[电力系统自动化]()
      * 软件工具<br>
