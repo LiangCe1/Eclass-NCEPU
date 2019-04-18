@@ -61,3 +61,6 @@
   * [2015年硕士生入学考试考生进入复试的初试成绩基本要求](https://mp.weixin.qq.com/s/WvlM7-h0Ir1AJcUndvMoCA)
   * [2016年硕士生入学考试考生进入复试的初试成绩基本要求](https://mp.weixin.qq.com/s/wXVSTjka6dh2R4ZW9v4sGw)
   * [2017年硕士生入学考试考生进入复试的初试成绩基本要求](https://mp.weixin.qq.com/s/Du3qeQGPM8Y9YrgDcpAAOg)
+* [考研经验分享](https://github.com/LiangCe1/Eclass-NCEPU/tree/master/%E8%80%83%E7%A0%94%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB)
+* [电气考研分析](https://github.com/LiangCe1/Eclass-NCEPU/tree/master/%E5%8D%8E%E7%94%B5%E7%94%B5%E6%B0%94%E8%80%83%E7%A0%94%E5%88%86%E6%9E%90)
+* [高频问题答疑](https://github.com/LiangCe1/Eclass-NCEPU/tree/master/%E9%AB%98%E9%A2%91%E9%97%AE%E9%A2%98%E7%AD%94%E7%96%91)
