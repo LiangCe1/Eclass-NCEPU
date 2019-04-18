@@ -64,3 +64,15 @@
 * [考研经验分享](https://github.com/LiangCe1/Eclass-NCEPU/tree/master/%E8%80%83%E7%A0%94%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB)
 * [电气考研分析](https://github.com/LiangCe1/Eclass-NCEPU/tree/master/%E5%8D%8E%E7%94%B5%E7%94%B5%E6%B0%94%E8%80%83%E7%A0%94%E5%88%86%E6%9E%90)
 * [高频问题答疑](https://github.com/LiangCe1/Eclass-NCEPU/tree/master/%E9%AB%98%E9%A2%91%E9%97%AE%E9%A2%98%E7%AD%94%E7%96%91)
+
+---
+
+## 华电考研重要网站及相关公众号
+- [北京校区(官网)](http://yjsy.ncepu.edu.cn)
+- [保定校区(研招网)](http://yjsy.ncepu.edu.cn/zsxx/sszsxx/index.htm)
+- 华北电力大学研究生招生
+- 华电考研网
+- 华电研路
+- NCEPU电气考研
+- 电气小青年
+- 小青年电气考研
